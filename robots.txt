@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://Samuel-Mencke.github.io/resources-lknihq/sitemap.xml
